@@ -5,7 +5,7 @@ Desenvolvido no Delphi 7, nele contém todas as imagens do Launcher, e seu códi
 
 O Tutorial para compilar o código fonte você encontra aqui:
 
-LINK
+https://www.youtube.com/watch?v=49J-Nbwwibk
 
 Se baixou o código fonte daqui, por favor, referencie o link do meu Github para os demais.
 
